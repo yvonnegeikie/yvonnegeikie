@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yvonnegeikie a senior nurse turned developer
+- 👋 Hi, I’m @yvonnegeikie a nurse turned developer
 - 😄 Pronouns: She/her 
 - 🌱 Freelance Full-Stack Software Engineer
 - 👀 I’m interested in landing my first full time role
