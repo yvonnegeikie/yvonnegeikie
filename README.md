@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yvonnegeikie a senior nurse turned developer
 - 😄 Pronouns: She/her 
 - 🌱 Freelance Full-Stack Software Engineer
-- 👀 I’m interested in landing my first job as as developer 
+- 👀 I’m interested in landing my first full time role
 - 💞️ I’m looking for a company where I will be continuously challenged and have the oopprtunity to excell 
 - 📫 Message me at https://www.linkedin.com/in/yvonnegeikie/
 - ⚡ Fun fact: I am an excellent plant based cook and I can play the bagpipes! 
