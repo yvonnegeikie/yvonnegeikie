@@ -3,9 +3,9 @@ I'm Yvonne Geikie, a nurse turned developer
 
 **About me**
 - 😄 Pronouns: She/her 
-- ⚡ Role: Freelance Full-Stack Software Engineer
-- 👀 Interets: I'm on the lookout for my first full-time role in tech
-- 💞️ Goals: I'm eager to join a company where I can be continuously challenged and have the opportunity to excel
+- ⚡ Role: QA Automation Engineer @ Sage 
+- 👀 Interets: Test and code 
+- 💞️ Goals: Making the most of my 2 year graduate position 
   
 **Connect with me**
 - 📫 https://www.linkedin.com/in/yvonnegeikie
